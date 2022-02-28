@@ -1,0 +1,23 @@
+.header{
+    width:100%;
+    display:flex;
+    height:auto;
+    align-items:center;
+    justify-content:space-between;
+}
+.brand_logo img{
+    width:160px;
+    object-fit: contain;
+}
+.rest button{
+    width:130px;
+    height:35px;
+    border-radius: 10px;
+    margin-right:40px;
+    background:transparent;
+    border:1px solid rgb(50, 50, 68);
+    color:#fff;
+    font-size:.95rem;
+    cursor:pointer;
+}
+
